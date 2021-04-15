@@ -1,0 +1,5 @@
+desc
+1 = readfile words.txt
+2 = replace three five
+csed
+1 -> 2
